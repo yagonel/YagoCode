@@ -1,0 +1,13 @@
+<Miguel>
+
+Hola Yago, he creado este fichero para que vayas aprendiendo a utilizar GIT. Manejar Git es necesario antes de meterse en el código de python ya que si no controlas podemos destrozar el código o dejar a todos los usuarios sin acceso a Ressspi (corre el código online)
+
+Para aprender lo mejor es que te mires este link https://git-scm.com/docs, ahí está el manual de referencia. Como primer ejercicio, clona el repositorio en tu ordernador, modifica este documento respondiéndome y añade un fichero python que calcule la elevación y azimut solar dadas: Una ubicación (Lat, Long, Huso horario) y un momento específico del día, día del año y  Hora Solar verdadera.
+
+Cuando lo tengas mándame un mail para que chequee el repositorio
+
+OJO!: Todo lo que pongas aquí es público
+
+</Miguel>
+
+  
