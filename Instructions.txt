@@ -10,4 +10,9 @@ OJO!: Todo lo que pongas aquí es público
 
 </Miguel>
 
+<Yago>
+Hola Miguel, el simulador solar resspi me ha parecido muy bueno! Ofrece a nivel claro datos relevantes para el cliente y es user-friendly, todo un éxito! 
+Ahora estaba acabando de actualizarme en python un poco que ya llevaba un tiempo sin tocarlo. En breves me pondré a pensar en el código para calcular elevacion y azimut solar. 
+Un saludo 
+</Yago>
   
