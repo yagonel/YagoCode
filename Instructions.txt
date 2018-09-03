@@ -15,4 +15,8 @@ Hola Miguel, el simulador solar resspi me ha parecido muy bueno! Ofrece a nivel 
 Ahora estaba acabando de actualizarme en python un poco que ya llevaba un tiempo sin tocarlo. En breves me pondré a pensar en el código para calcular elevacion y azimut solar. 
 Un saludo 
 </Yago>
-  
+ 
+<Miguel>
+sdsdsd
+</Miguel>
+
